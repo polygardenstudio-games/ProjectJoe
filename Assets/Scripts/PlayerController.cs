@@ -21,22 +21,29 @@ public class PlayerController : MonoBehaviour
 
     private bool facingRight = true;
     private int faceDirection = 1;
-    void Start()
+
+    private void Awake()
     {
+        CheckGround();
+
         rb = GetComponent<Rigidbody2D>();
         anim = GetComponentInChildren<Animator>();
+    }
+    void Start()
+    {
     }
 
     void Update()
     {
         CheckGround();
+
+        HandleAnimations();
+        HandleFlip();
     }
     private void FixedUpdate()
     {
         HandleMovement();
-        HandleFlip();
         HandleJump();
-        HandleAnimations();
     }
 
     public void OnMove(InputValue value)
