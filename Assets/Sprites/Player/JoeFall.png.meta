@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 2f8a52d116b8d4945bd157e8b766a935
+guid: d51e3ea9bbaa1f845afece29a5d6951b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6814950688342279154
-    second: JoesLittle-Sheet_0
+      213: -2647948752118359433
+    second: JoeFall_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,7 +113,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: JoesLittle-Sheet_0
+      name: JoeFall_0
       rect:
         serializedVersion: 2
         x: 0
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2f3027c3b81939e50800000000000000
-      internalID: 6814950688342279154
+      spriteID: 77adb8ea3a8904bd0800000000000000
+      internalID: -2647948752118359433
       vertices: []
       indices: 
       edges: []
@@ -138,7 +138,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: f145849df62e6ff4c98e47f87852f21b
+    spriteID: 8ca38c79800e334428d931c86471e38f
     internalID: 0
     vertices: []
     indices: 
@@ -150,7 +150,7 @@ TextureImporter:
       - key: SpriteEditor.SliceSettings
         value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":16.0,"y":16.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      JoesLittle-Sheet_0: 6814950688342279154
+      JoeFall_0: -2647948752118359433
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

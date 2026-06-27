@@ -20,7 +20,6 @@ public class PlayerController : MonoBehaviour
     [SerializeField] private float groundCheckRadius = 0.2f;
 
     private bool facingRight = true;
-    private int faceDirection = 1;
 
     private void Awake()
     {
@@ -96,7 +95,7 @@ public class PlayerController : MonoBehaviour
 
     private void Flip()
     {
-        faceDirection *= -1;
+        
         transform.Rotate(0, 180, 0);
         facingRight = !facingRight;
     }

@@ -1,13 +1,19 @@
 fileFormatVersion: 2
-guid: 830758b77be721643802525852d8e386
+guid: 99bc65ea5084c434c96ffe25c8ba20d0
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6814950688342279154
-    second: JoesLittle-Sheet_0
+      213: 3551121155995624587
+    second: JoeRun_0
   - first:
-      213: -938061514927998457
-    second: JoesLittle-Sheet_1
+      213: 3080634908894900683
+    second: JoeRun_1
+  - first:
+      213: -4672391146406170562
+    second: JoeRun_2
+  - first:
+      213: -2096645436702015342
+    second: JoeRun_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -116,7 +122,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: JoesLittle-Sheet_0
+      name: JoeRun_0
       rect:
         serializedVersion: 2
         x: 0
@@ -131,14 +137,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2f3027c3b81939e50800000000000000
-      internalID: 6814950688342279154
+      spriteID: b846e7170ed184130800000000000000
+      internalID: 3551121155995624587
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: JoesLittle-Sheet_1
+      name: JoeRun_1
       rect:
         serializedVersion: 2
         x: 16
@@ -153,8 +159,52 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 70a7041b5065bf2f0800000000000000
-      internalID: -938061514927998457
+      spriteID: bc13953b02d90ca20800000000000000
+      internalID: 3080634908894900683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoeRun_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e30b7caf105582fb0800000000000000
+      internalID: -4672391146406170562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoeRun_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290ce65751837e2e0800000000000000
+      internalID: -2096645436702015342
       vertices: []
       indices: 
       edges: []
@@ -163,7 +213,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 37305196bc210164f8a2f6ea97d69285
+    spriteID: 703a62c0e80fb7f4aaff69f44ef105f4
     internalID: 0
     vertices: []
     indices: 
@@ -175,8 +225,10 @@ TextureImporter:
       - key: SpriteEditor.SliceSettings
         value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":16.0,"y":16.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      JoesLittle-Sheet_0: 6814950688342279154
-      JoesLittle-Sheet_1: -938061514927998457
+      JoeRun_0: 3551121155995624587
+      JoeRun_1: 3080634908894900683
+      JoeRun_2: -4672391146406170562
+      JoeRun_3: -2096645436702015342
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
